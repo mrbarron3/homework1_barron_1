@@ -1,0 +1,1 @@
+Version control is important because it allows users to track changes, work collaboratively with others, easily revert to older versions, and experiment without the fear of overwriting files.
